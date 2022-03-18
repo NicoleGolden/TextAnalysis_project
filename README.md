@@ -2,7 +2,7 @@
 
 <center>
 <img src="figure/wordcloud_small.png" width="300"/>
-<h6>Figure 1 - Word Clouds (This plot was created on website [word clouds](https://www.wordclouds.com) using the data I collected.)</h6>
+<h6>Figure 1 - Word Clouds (This plot was created on website word clouds (https://www.wordclouds.com) using the data I collected)</h6>
 </center>
 
 ## Chapter 1. The Words in a Cloud
@@ -14,6 +14,8 @@ Thanks to Zoom, it was possible for me to collect these texts and see what the s
 It was not an easy question, but these students answered well. From Figure 1, we can see that their most extensive interest  was "inflation." They even foresaw this problem, given the world state back then was not as mad. 
 
 ## Chapter 2. Text Data 
+
+(For data, see my [GitHub page](https://github.com/NicoleGolden/TextAnalysis_project/).)
 
 ### Data collection 
 The data used in this analysis is compiled with multiple zoom chat records in .txt format. The time period is the first two weeks of my econometrics class. All identity-related information is scraped off so that no student can be identified. 
