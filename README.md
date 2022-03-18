@@ -32,7 +32,7 @@ I generated four final datasets in the end:
 (The rest of the words will just circle around Figure 3.)
 
 <center>
-![](figure/figure3.png)
+<img src="figure/figure3.png">
 <h6>Figure 3 - What Topics Do Economists Care About?</h6>
 </center>
 
